@@ -1,0 +1,54 @@
+.test__container{
+    height: 100vh;
+background-color:#202833 ;
+color: white;
+}
+.test__Button{
+    background-color: #017d87;
+    color: white;
+    padding: 10px 17px;
+    border:1px solid #171717;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+}
+
+.test__inner_container{
+  width: 200px;
+  height: 300px;
+  padding: 20px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right:0;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  justify-content: center;
+}
+.test__logoutContainer{
+    width: 200px;
+  height: 300px;
+  padding: 20px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right:0;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  justify-content: center;
+  background-color:#202833 ;
+}
+.test__logoutScreen{
+    height: 100vh;
+background-color:#202833 ;
+color: white;
+}
